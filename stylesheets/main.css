@@ -1,0 +1,69 @@
+header {
+  font-family: Arial;
+  background-color: #9F0404;
+  padding: 2px;
+  padding-left: 30px;
+  Padding-right: 30px;
+  text-align: left;
+  font-size: 24px;
+  color: white;
+}
+
+nav {
+  font-family: Arial;
+  background-color: #323232;
+  padding: 20px;
+  padding-left: 30px;
+  Padding-right: 30px;
+  text-align: right;
+  font-size: 18px;
+  color: white;
+}
+
+ul {
+  font-family: Arial;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rightli {
+  font-family: Arial;
+  float: right;
+  Padding-left: 5;
+  Padding-right: 5;
+}
+
+.sidenav {
+  right: 0;
+}
+
+section {
+  font-family: Arial;
+  padding: 20px;
+  padding: 2px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+
+}
+
+footer {
+  font-family: Arial;
+  padding: 2px;
+  padding-left: 30px;
+  Padding-right: 30px;
+  color: white;
+  background-color: #323232;
+}
+
+
+main {
+  width:75%;
+  float:left;
+}
+
+aside {
+  width:25%;
+  float:right;
+}
